@@ -7,7 +7,7 @@
 *.dll
 *.so
 *.dylib
-
+harbor-password
 # Test binary, built with `go test -c`
 *.test
 
